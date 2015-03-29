@@ -1,0 +1,11 @@
+bunsen-faenza-icon-theme (1.2-2) unstable; urgency=low
+
+  * Switch to dpkg-source 3.0 (quilt) format
+
+ -- John Crawley <john@rafflesnagoya.com>  Sat, 28 Mar 2015 15:13:59 +0900
+
+faenza-crunchbang-icon-theme (1.2-crunchang1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Philip Newborough <corenominal@corenominal.org>  Tue, 12 Jun 2012 14:12:42 +0100
