@@ -1,11 +1,11 @@
 Source: bunsen-faenza-icon-theme
 Section: x11
 Priority: optional
-Maintainer: John Crawley <john@rafflesnagoya.com>
+Maintainer: John Crawley <john@bunsenlabs.org>
 XSBC-Original-Maintainer: Philip Newborough <corenominal@corenominal.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: https://github.com/BunsenLabs/bunsen-faenza-icon-theme 
+Homepage: https://github.com/BunsenLabs/bunsen-faenza-icon-theme
 #Vcs-Git: https://github.com/BunsenLabs/bunsen-faenza-icon-theme.git
 #Vcs-Browser: https://github.com/BunsenLabs/bunsen-faenza-icon-theme.git;a=summary
 

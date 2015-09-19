@@ -2,7 +2,7 @@ bunsen-faenza-icon-theme (1.2-2) unstable; urgency=low
 
   * Switch to dpkg-source 3.0 (quilt) format
 
- -- John Crawley <john@rafflesnagoya.com>  Sat, 28 Mar 2015 15:13:59 +0900
+ -- John Crawley <john@bunsenlabs.org>  Sat, 28 Mar 2015 15:13:59 +0900
 
 faenza-crunchbang-icon-theme (1.2-crunchang1) unstable; urgency=low
 
