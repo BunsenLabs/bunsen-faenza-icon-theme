@@ -6,12 +6,13 @@ XSBC-Original-Maintainer: Philip Newborough <corenominal@corenominal.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://github.com/BunsenLabs/bunsen-faenza-icon-theme
-#Vcs-Git: https://github.com/BunsenLabs/bunsen-faenza-icon-theme.git
-#Vcs-Browser: https://github.com/BunsenLabs/bunsen-faenza-icon-theme.git;a=summary
+Vcs-Git: https://github.com/BunsenLabs/bunsen-faenza-icon-theme.git
+Vcs-Browser: https://github.com/BunsenLabs/bunsen-faenza-icon-theme
 
 Package: bunsen-faenza-icon-theme
 Architecture: all
-Depends: ${misc:Depends}
+Depends: ${misc:Depends}, faenza-icon-theme
 Description: Icon theme with tilish style, by Tiheum
- Default icon themes for use with CrunchBang Waldorf.
- Repackaged for BunsenLabs Linux.
+ Some icons decolorized, 
+ and repackaged for BunsenLabs Linux, 
+ with only the modified icons.

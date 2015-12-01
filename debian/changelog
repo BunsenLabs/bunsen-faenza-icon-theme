@@ -1,3 +1,11 @@
+bunsen-faenza-icon-theme (8.1-1) bunsen-hydrogen; urgency=medium
+
+  * Add grayscale icons for launchers.
+  * Repackage with only the decolorized icons.
+  * Add dependency on faenza-icon-theme.
+
+ -- John Crawley <john@bunsenlabs.org>  Tue, 01 Dec 2015 17:13:20 +0900
+
 bunsen-faenza-icon-theme (1.2-2) unstable; urgency=low
 
   * Switch to dpkg-source 3.0 (quilt) format

@@ -1,10 +1,12 @@
 BunsenLabs Faenza Icon Theme
 ============================
 
-Icon theme with tilish style, by Tiheum
-A clone of faenza-crunchbang-icon-theme, 
-adapted for CrunchBang Linux.
-Repackaged for BunsenLabs Linux.
+Icon theme with tilish style, by Tiheum.
+
+Some icons decolorized, 
+and repackaged for BunsenLabs Linux, 
+with only the modified icons.
+Inherits Faenza and Faenza-Dark.
 
 ### License
 
