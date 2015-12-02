@@ -1,3 +1,9 @@
+bunsen-faenza-icon-theme (8.1.1-2) bunsen-hydrogen; urgency=low
+
+  * Add Faenza-Bunsen-common to debian/install.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 02 Dec 2015 16:00:24 +0900
+
 bunsen-faenza-icon-theme (8.1.1-1) bunsen-hydrogen; urgency=low
 
   * Add hidden Faenza-Bunsen-common theme to hold grayscale icons.
