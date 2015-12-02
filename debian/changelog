@@ -1,3 +1,11 @@
+bunsen-faenza-icon-theme (8.1.1-1) bunsen-hydrogen; urgency=low
+
+  * Add hidden Faenza-Bunsen-common theme to hold grayscale icons.
+  * Remove obsolete "extras" directories.
+  * Add liferea 22px status icons.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 02 Dec 2015 15:49:32 +0900
+
 bunsen-faenza-icon-theme (8.1-1) bunsen-hydrogen; urgency=medium
 
   * Add grayscale icons for launchers.
