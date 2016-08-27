@@ -32,4 +32,4 @@ override_dh_install:
 
 override_dh_clean:
 	dh_clean
-	rm -rf Faenza-Bunsen Faenza-Dark-Bunsen
+	rm -rf Faenza-Bunsen Faenza-Dark-Bunsen Faenza-Bunsen-common
