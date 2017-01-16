@@ -1,3 +1,9 @@
+bunsen-faenza-icon-theme (8.2-1) bunsen-hydrogen; urgency=medium
+
+  * Version bump for deuterium merge
+
+ -- John Crawley <john@bunsenlabs.org>  Mon, 16 Jan 2017 17:25:16 +0900
+
 bunsen-faenza-icon-theme (8.1.2-1) bunsen-hydrogen; urgency=medium
 
   * Add symlink to Faenza brightness icon for xfce4-notifyd
