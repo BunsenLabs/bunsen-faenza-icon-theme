@@ -1,0 +1,19 @@
+#!/bin/sh
+# prerm script for bunsen-images
+
+set -e
+
+BL_START_HERE='/usr/share/icons/Faenza-Bunsen-common/places/scalable/start-here.svg'
+
+case $1 in
+remove|deconfigure)
+    if update-alternatives --list start-here.svg >/dev/null 2>&1
+    then
+        update-alternatives --remove start-here.svg "$BL_START_HERE"
+    fi
+    ;;
+esac
+
+#DEBHELPER#
+
+exit 0
