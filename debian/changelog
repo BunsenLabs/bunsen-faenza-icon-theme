@@ -3,7 +3,7 @@ bunsen-faenza-icon-theme (9.0-1) helium; urgency=medium
   * Version bump for helium.
   * Add BunsenLabs alternative for start-here.svg
 
- -- John Crawley <john@bunsenlabs.org>  Sat, 13 May 2017 18:17:46 +0900
+ -- John Crawley <john@bunsenlabs.org>  Sun, 14 May 2017 13:02:25 +0900
 
 bunsen-faenza-icon-theme (8.2-1) bunsen-hydrogen; urgency=medium
 
