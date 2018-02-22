@@ -1,6 +1,6 @@
 Source: bunsen-faenza-icon-theme
 Section: x11
-Priority: extra
+Priority: optional
 Maintainer: John Crawley <john@bunsenlabs.org>
 XSBC-Original-Maintainer: Philip Newborough <corenominal@corenominal.org>
 Build-Depends: debhelper (>= 9)
