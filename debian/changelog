@@ -1,3 +1,9 @@
+bunsen-faenza-icon-theme (9.0-2) helium; urgency=medium
+
+  * Change package priority from deprecated 'extra' to 'optional'.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 22 Feb 2018 16:09:18 +0900
+
 bunsen-faenza-icon-theme (9.0-1) helium; urgency=medium
 
   * Version bump for helium.
