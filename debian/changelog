@@ -1,3 +1,12 @@
+bunsen-faenza-icon-theme (10.0-1) lithium; urgency=medium
+
+  * Migrate to Lithium repository.
+  * Upgrade standards version to 4.3.0, debhelper compat to 10.
+  * Update copyright year.
+  * debian/rules: Remove comments.
+
+ -- John Crawley <john@bunsenlabs.org>  Fri, 04 Jan 2019 18:04:30 +0900
+
 bunsen-faenza-icon-theme (9.0-2) helium; urgency=medium
 
   * Change package priority from deprecated 'extra' to 'optional'.
