@@ -14,7 +14,7 @@ bunsen-faenza-icon-theme (11.0-1) beryllium; urgency=medium
     + debian/control: Bump Standards-Version to 4.5.1 - no changes required.
     + debian/control: Declare debhelper compatibility 12.
     + Remove debian/compat, now unnecessary.
-    + debian/copyright: update year. 
+    + debian/copyright: update year.
 
  -- John Crawley <john@bunsenlabs.org>  Thu, 11 Feb 2021 14:15:40 +0900
 
