@@ -1,3 +1,13 @@
+bunsen-faenza-icon-theme (12.0-1) boron; urgency=medium
+
+  * Migrate for Debian Bookworm
+    - debian/control: Bump Standards-Version to 4.6.1.0 - no changes required.
+    - debian/control: Declare debhelper compatibility 13.
+    - debian/control: Add Rules-Requires-Root: no
+    - debian/copyright: Update year, use https Format url.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 13 Apr 2023 13:32:14 +0900
+
 bunsen-faenza-icon-theme (11.0-1) beryllium; urgency=medium
 
   * Migrate for Debian Bullseye.
