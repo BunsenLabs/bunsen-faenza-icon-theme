@@ -3,8 +3,9 @@ Section: x11
 Priority: optional
 Maintainer: John Crawley <john@bunsenlabs.org>
 XSBC-Original-Maintainer: Philip Newborough <corenominal@corenominal.org>
-Build-Depends: debhelper-compat (= 12)
-Standards-Version: 4.5.1
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1.0
+Rules-Requires-Root: no
 Homepage: https://github.com/BunsenLabs/bunsen-faenza-icon-theme
 Vcs-Git: https://github.com/BunsenLabs/bunsen-faenza-icon-theme.git
 Vcs-Browser: https://github.com/BunsenLabs/bunsen-faenza-icon-theme

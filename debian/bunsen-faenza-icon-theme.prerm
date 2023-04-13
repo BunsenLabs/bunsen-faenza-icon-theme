@@ -1,5 +1,5 @@
 #!/bin/sh
-# prerm script for bunsen-images
+# prerm script for bunsen-faenza-icon-theme
 
 set -e
 
